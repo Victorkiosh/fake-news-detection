@@ -45,7 +45,8 @@ We trained multiple models and achieved **up to 99.65% accuracy** using XGBoost.
 > ✅ **XGBoost** achieved the best performance, while **Logistic Regression** offered excellent interpretability.
 
 ![ROC Curve](visuals/roc_curve.png)
-![Feature Importance](visuals/xgb_feature_importance.png)
+
+![Feature Importance](visuals/Top_20_features_XGBoost.png)
 
 ---
 
