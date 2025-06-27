@@ -10,7 +10,7 @@ We trained multiple models and achieved **up to 99.65% accuracy** using XGBoost.
 
 - `FakeNews_Detection.ipynb` → Full notebook (EDA → Preprocessing → Modeling → Evaluation)
 - `data/` → Contains the original datasets (`True.csv`, `Fake.csv`)
-- `visuals/` → Word clouds, ROC curves, feature importance charts (optional)
+- `visuals/` → Word clouds, ROC curves, feature importance charts
 - `requirements.txt` → Python packages used
 - `README.md` → Project overview, findings, and usage instructions
 
